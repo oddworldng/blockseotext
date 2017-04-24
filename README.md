@@ -4,4 +4,4 @@ Módulo de ejemplo para el curso **Prestashop avanzado: desarrollando módulos**
 
 Este módulo tiene un contenido básico para que los alumnos lo complementen durante el desarrollo del curso.
 
-Nota: **Módulo sin terminar**
+*Nota*: **Módulo sin terminar**
